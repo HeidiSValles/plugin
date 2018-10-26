@@ -191,7 +191,7 @@ GEM
     lru_redux (1.1.0)
     mail (2.7.1.rc1)
       mini_mime (>= 0.1.1)
-    maxminddb (0.1.21)
+    maxminddb (0.1.22)
     memory_profiler (0.9.12)
     message_bus (2.1.6)
       rack (>= 1.1.3)
